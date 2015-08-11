@@ -10,6 +10,9 @@ are permitted provided that the following conditions are met:
 notice, this list of conditions and the following disclaimer in the
 documentation and/or other materials provided with the distribution.
 
+(2) If reporting use of the data as a resource in research, please
+consult https://materialsproject.org/citing to cite one or more
+publications as appropriate.
 
 (3) Neither the name of the University of California, Lawrence
 Berkeley National Laboratory, U.S. Dept. of Energy nor the names of
